@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lucas Shen(Haozhe Lv)"
+title                    : "Lucas Shen"
 title_separator          : "-"
 name                     : &name "Haozhe Lv"
 description              : &description "personal description"
