@@ -80,5 +80,11 @@
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
 
+    <!-- 用于笔记类型的链接 -->
+    {% if post.noteurl  %}
+      <p><a href=" {{ post.noteurl }} ">Download Note</a></p>
+    {% endif %}
+
+
   </article>
 </div>
