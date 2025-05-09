@@ -18,13 +18,14 @@ main:
   #   url: /teaching/    
     
   - title: "Notes"
+  # - title: "Notes"
     url: /notes/
   
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
     
   - title: "CV"
     url: /cv/
@@ -32,5 +33,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

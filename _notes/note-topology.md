@@ -2,8 +2,8 @@
 title: "拓扑学笔记"
 collection: publications
 category: manuscripts
-permalink: /publication/note_topology
-excerpt: '拓扑学课程笔记'
+permalink: /publication/note-topology
+# excerpt: '拓扑学课程笔记'
 date: 2025-05-07
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
