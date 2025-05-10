@@ -15,7 +15,7 @@ redirect_from:
 
 * 2018.06~2021.06 甘肃省平凉市第一中学  高中
 * 2021.08~2025.07 中国科学技术大学  数学科学学院  本科
-* 2025.09~'     ' 北京师范大学  数学科学学院  硕士研究生
+* 2025.09~&nbsp;&nbsp;&nbsp;&nbsp; 北京师范大学  数学科学学院  硕士研究生
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
