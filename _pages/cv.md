@@ -13,9 +13,9 @@ redirect_from:
 教育经历<!-- Education experience -->
 ======
 
-* 2018.06~2021.06 甘肃省平凉市第一中学  高中
-* 2021.08~2025.07 中国科学技术大学  数学科学学院  本科
-* 2025.09~&nbsp;&nbsp;&nbsp;&nbsp; 北京师范大学  数学科学学院  硕士研究生
+* 2018.06~2021.06&nbsp;&nbsp;甘肃省平凉市第一中学  高中
+* 2021.08~2025.07&nbsp;&nbsp;中国科学技术大学  数学科学学院  本科
+<!-- * 2025.09~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 北京师范大学  数学科学学院  硕士研究生 -->
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
@@ -25,10 +25,10 @@ redirect_from:
 工作经历<!-- Work experience -->
 ======
 
-* 2021.10~2023.06 中国科大核科学技术学院学生会 文体部干事
-* 2022.06~2023.06 中国科大魔方协会 副社长
-* 2024.03~2024.07 线性代数B1 助教
-* 2024.08~2025.01 数学分析B1 助教
+* 2021.10~2023.06&nbsp;&nbsp;中国科大核科学技术学院学生会 文体部干事
+* 2022.06~2023.06&nbsp;&nbsp;中国科大魔方协会 副社长
+* 2024.03~2024.07&nbsp;&nbsp;线性代数B1 助教
+* 2024.08~2025.01&nbsp;&nbsp;数学分析B1 助教
 
 
 
